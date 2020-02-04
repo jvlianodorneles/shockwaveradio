@@ -24,7 +24,7 @@ Abaixo seguem instruções para a instalação das dependências sob as quais o 
 sudo apt-get install python-software-properties software-properties-common
 sudo LC_ALL=C.UTF-8 add-apt-repository ppa:ondrej/php
 sudo apt-get update
-sudo apt-get install php7.2 php7.2-dev php7.2-xml php7.2-zip php7.2-gmp php7.2-cli php7.2-mbstring php7.2-json git -y
+sudo apt-get install php7.3 php7.3-dev php7.3-xml php7.3-zip php7.3-gmp php7.3-cli php7.3-mbstring php7.3-json git -y
 ```
 
 ### php-libtgvoip, ffmpeg e screen
