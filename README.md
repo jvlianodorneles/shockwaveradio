@@ -2,7 +2,7 @@
 
 Userbot em PHP para transmitir a programação da **Shock Wave⚡️Radio**, baseado em [MadelineProto](https://github.com/danog/MadelineProto) e [libtgvoip](https://github.com/danog/php-libtgvoip).
 
-![Screenshot](https://github.com/jvlianodorneles/shockwaveradio/raw/master/screenshot.png)
+![Screenshot](https://github.com/jvlianodorneles/shockwaveradio/raw/master/screenshot.jpg)
 
 Código baseado no [magnaluna](https://github.com/danog/magnaluna) e no [rdsradio](https://github.com/Gabboxl/RDSRadio).
 
