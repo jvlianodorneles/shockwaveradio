@@ -27,10 +27,10 @@ sudo apt-get update
 sudo apt-get install php7.2 php7.2-dev php7.2-xml php7.2-zip php7.2-gmp php7.2-cli php7.2-mbstring php7.2-json git -y
 ```
 
-### php-libtgvoip e ffmpeg
+### php-libtgvoip, ffmpeg e screen
 
 ```
-sudo apt-get install ffmpeg libopus-dev libssl-dev build-essential php$(echo "<?php echo PHP_MAJOR_VERSION.'.'.PHP_MINOR_VERSION;" | php)-dev && git clone https://github.com/danog/PHP-CPP && cd PHP-CPP && make -j$(nproc) && sudo make install && cd .. && git clone --recursive https://github.com/danog/php-libtgvoip && cd php-libtgvoip && make && sudo make install && cd
+sudo apt-get install ffmpeg screen libopus-dev libssl-dev build-essential php$(echo "<?php echo PHP_MAJOR_VERSION.'.'.PHP_MINOR_VERSION;" | php)-dev && git clone https://github.com/danog/PHP-CPP && cd PHP-CPP && make -j$(nproc) && sudo make install && cd .. && git clone --recursive https://github.com/danog/php-libtgvoip && cd php-libtgvoip && make && sudo make install && cd
 ```
 
 ## Execução
