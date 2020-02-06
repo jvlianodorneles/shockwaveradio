@@ -261,7 +261,7 @@ class EventHandler extends \danog\MadelineProto\EventHandler
                 $message = '/meliga';
                 yield $this->messages->sendMessage(['no_webpage' => true, 'peer' => $chat_id, 'message' => "**Shock Wave⚡️Radio**!
 
-Ligue para mim para ouvir a **melhor programação** conservadora do Brasil! Ou você me enviar o comando `/meliga` para fazer com que _eu_ ligue para _você_ (não esqueça de ajustar as configurações de `Chamadas de voz` nas opções de `Privacidade e Segurança`!).
+Ligue para mim para ouvir a **melhor programação** conservadora do Brasil! Ou você pode me enviar o comando `/meliga` para fazer com que _eu_ ligue para _você_ (não esqueça de ajustar as configurações de `Chamadas de voz` nas opções de `Privacidade e Segurança`!).
 
 Você pode, inclusive, escapar daquela reunião xarope com o comando `/meavisa`:
 
